@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  /*background: url("../images/happy-office-worker.jpg") no-repeat fixed;*/
+  background: url("../images/happy.jpg") no-repeat fixed;
+  /*background: url("../images/office-worker.jpg") no-repeat fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.admin-form .form-control {
+    background-color: #ffffff;
+    /*border: 0;*/
+    /*-webkit-border-radius: 0;*/
+    /*border-radius: 0;*/
+    box-shadow: none;
+    display: inline-block;
+    height: 46px;
+    padding: 13px 12px 13px 63px;
+    width: 100%;
+     border-radius:5px;
+ /* mozilla */
+ -moz-border-radius:5px;
+ /* webkit */
+ -webkit-border-radius:5px;
+}
+
+.admin-form i {
+    background-color: #ffffff;
+    border-right: 1px solid #DCDCDC;
+    color: #626a89;
+    display: inline-block;
+    font-size: 20px;
+    height: 46px;
+    left: 15px;
+    line-height: 46px;
+    text-align: center;
+    position: absolute;
+    -webkit-transition: color 0.3s ease 0s;
+    transition: color 0.3s ease 0s;
+    width: 46px;
+        border-radius:5px;
+ /* mozilla */
+ -moz-border-radius:5px;
+ /* webkit */
+ -webkit-border-radius:5px;
+}
